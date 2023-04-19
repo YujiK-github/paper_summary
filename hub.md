@@ -4,6 +4,10 @@
 * LightGBM: A Highly Efficient Gradient Boosting Decision Tree
 * XGBoost: A Scalable Tree Boosting System
 * Semi-Supervised Segmentation of Salt Bodies in Seismic Images using an Ensemble of Convolutional Neural Networks
+
+## DL
+* Layer Normalization
+
 ## NLP
 * ~~BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding~~
 * ~~RoBERTa: A Robustly Optimized BERT Pretraining Approach~~
@@ -18,6 +22,7 @@
 * Funnel-Transformer: Filtering out Sequential Redundancy for Efficient Language Processing
 * Longformer: The Long-Document Transformer
 * Cross-lingual Language Model Pretraining
+* Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models(tokenizerによる数字の識別の検証)
 ## V&L
 * ~~OCR-free Document Understanding Transformer~~
 * ~~DePlot: One-shot visual language reasoning by plot-to-table translation~~
@@ -39,3 +44,8 @@
 ## DML
 * SimCSE: Simple Contrastive Learning of Sentence Embeddings
 * ArcFace: Additive Angular Margin Loss for Deep Face Recognition
+
+## Table
+* Revisiting Deep Learning Models for Tabular Data
+* TabTransformer: Tabular Data Modeling Using Contextual Embeddings
+* TabNet: Attentive Interpretable Tabular Learning
