@@ -19,12 +19,23 @@
 * Longformer: The Long-Document Transformer
 * Cross-lingual Language Model Pretraining
 ## V&L
-* OCR-free Document Understanding Transformer
-* DePlot: One-shot visual language reasoning by plot-to-table translation
+* ~~OCR-free Document Understanding Transformer~~
+* ~~DePlot: One-shot visual language reasoning by plot-to-table translation~~
+* Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+* Self-Consistency Improves Chain of Thought Reasoning in Language Models
 ## CV
 * Deep Residual Learning for Image Recognition
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 * EfficientNetV2: Smaller Models and Faster Training
+* Learning Transferable Visual Models From Natural Language Supervision(CLIP)
+* An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+* MLP-Mixer: An all-MLP Architecture for Vision
+* How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers
+* When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations
+* LiT: Zero-Shot Transfer with Locked-image text Tuning
+* Surrogate Gap Minimization Improves Sharpness-Aware Training
+* Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+* ChartOCR: Data Extraction from Charts Images via a Deep Hybrid Framework
 ## DML
 * SimCSE: Simple Contrastive Learning of Sentence Embeddings
 * ArcFace: Additive Angular Margin Loss for Deep Face Recognition
