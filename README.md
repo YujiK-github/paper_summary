@@ -10,3 +10,5 @@ https://www.slideshare.net/Ochyai/1-ftma15
 * 次に読むべき論文は？
 
 Githubのissueで管理する
+
+Start: Apr 14, 2023
