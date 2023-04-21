@@ -3,16 +3,18 @@
 ## ML
 * LightGBM: A Highly Efficient Gradient Boosting Decision Tree
 * XGBoost: A Scalable Tree Boosting System
+* CatBoost: unbiased boosting with categorical features
 * Semi-Supervised Segmentation of Salt Bodies in Seismic Images using an Ensemble of Convolutional Neural Networks
 
 ## DL
 * Layer Normalization
+* Distilling the Knowledge in a Neural Network
 
 ## NLP
 * ~~BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding~~
 * ~~RoBERTa: A Robustly Optimized BERT Pretraining Approach~~
 * ~~ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators~~
-* DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter
+* ~~DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter~~
 * ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
 * BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
 * DeBERTa: Decoding-enhanced BERT with Disentangled Attention
@@ -23,6 +25,7 @@
 * Longformer: The Long-Document Transformer
 * Cross-lingual Language Model Pretraining
 * Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models(tokenizerによる数字の識別の検証)
+* Don't Stop Pretraining: Adapt Language Models to Domains and Tasks
 ## V&L
 * ~~OCR-free Document Understanding Transformer~~
 * ~~DePlot: One-shot visual language reasoning by plot-to-table translation~~
@@ -46,6 +49,7 @@
 * ArcFace: Additive Angular Margin Loss for Deep Face Recognition
 
 ## Table
+* ~~TransTab: Learning Transferable Tabular Transformers Across Tables~~
 * Revisiting Deep Learning Models for Tabular Data
 * TabTransformer: Tabular Data Modeling Using Contextual Embeddings
 * TabNet: Attentive Interpretable Tabular Learning
