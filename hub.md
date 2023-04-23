@@ -24,7 +24,7 @@
 * Funnel-Transformer: Filtering out Sequential Redundancy for Efficient Language Processing
 * Longformer: The Long-Document Transformer
 * Cross-lingual Language Model Pretraining
-* Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models(tokenizerによる数字の識別の検証)
+* ~~Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models(tokenizerによる数字の識別の検証)~~
 * Don't Stop Pretraining: Adapt Language Models to Domains and Tasks
 ## V&L
 * ~~OCR-free Document Understanding Transformer~~
