@@ -25,7 +25,7 @@
 * Longformer: The Long-Document Transformer
 * Cross-lingual Language Model Pretraining
 * ~~Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models(tokenizerによる数字の識別の検証)~~
-* Don't Stop Pretraining: Adapt Language Models to Domains and Tasks
+* ~~Don't Stop Pretraining: Adapt Language Models to Domains and Tasks~~
 ## V&L
 * ~~OCR-free Document Understanding Transformer~~
 * ~~DePlot: One-shot visual language reasoning by plot-to-table translation~~
@@ -47,6 +47,8 @@
 ## DML
 * SimCSE: Simple Contrastive Learning of Sentence Embeddings
 * ArcFace: Additive Angular Margin Loss for Deep Face Recognition
+* Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning
+* ~~Cross-Batch Memory for Embedding Learning~~
 
 ## Table
 * ~~TransTab: Learning Transferable Tabular Transformers Across Tables~~
