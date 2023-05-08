@@ -40,9 +40,9 @@
 * Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 * ChartOCR: Data Extraction from Charts Images via a Deep Hybrid Framework
 ## DML
-* SimCSE: Simple Contrastive Learning of Sentence Embeddings
 * ArcFace: Additive Angular Margin Loss for Deep Face Recognition
 * Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning
+* Big Self-Supervised Models are Strong Semi-Supervised Learners(SimCLR ver2)
 
 ## Table
 * Revisiting Deep Learning Models for Tabular Data
