@@ -9,7 +9,7 @@ https://www.slideshare.net/Ochyai/1-ftma15
 * 議論はある？
 * 次に読むべき論文は？
 
-~~Githubのissueで管理する~~
+~~Githubのissueで管理する~~  
 -> issueだとtexや画像が上手く表示されなかったり、VScodeから途中セーブできなかったりするので、papers/にまとめる.
 
 Start: Apr 14, 2023
