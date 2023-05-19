@@ -12,4 +12,7 @@ https://www.slideshare.net/Ochyai/1-ftma15
 ~~Githubのissueで管理する~~  
 -> issueだとtexや画像が上手く表示されなかったり、VScodeから途中セーブできなかったりするので、papers/にまとめる.
 
+今やっていること
+XBMを試している。
+
 Start: Apr 14, 2023
