@@ -14,6 +14,7 @@
 011. Attention Is All You Need 
 012. Should You Mask 15% in Masked Language Modeling?
 013. A Simple Framework for Contrastive Learning of Visual Representations
-014. XGBoost: A Scalable Tree Boosting System
-015. Generative Adversarial Networks
-016. DeBERTa: Decoding-enhanced BERT with Disentangled Attention
+014. XGBoost: A Scalable Tree Boosting System(未完成)
+015. Generative Adversarial Networks(未完成)
+016. DeBERTa: Decoding-enhanced BERT with Disentangled Attention(未完成)
+017. Deep State Space Models for Time Series Forecasting(未完成)
