@@ -17,6 +17,6 @@
 014. XGBoost: A Scalable Tree Boosting System(未完成)
 015. Generative Adversarial Networks(未完成)
 016. DeBERTa: Decoding-enhanced BERT with Disentangled Attention(未完成)
-017. Deep State Space Models for Time Series Forecasting(未完成)
+017. Deep State Space Models for Time Series Forecasting
 018. SphereFace: Deep Hypersphere Embedding for Face Recognition(未完成)
 019. DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks
