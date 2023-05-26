@@ -20,4 +20,4 @@
 017. Deep State Space Models for Time Series Forecasting
 018. SphereFace: Deep Hypersphere Embedding for Face Recognition(未完成)
 019. DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks
-020. Efficiently Modeling Long Sequences with Structured State Spaces(未完成)
+020. Efficiently Modeling Long Sequences with Structured State Spaces(諦め)
