@@ -15,6 +15,6 @@ https://www.slideshare.net/Ochyai/1-ftma15
 -> ~~issueだとtexや画像が上手く表示されなかったり、VScodeから途中セーブできなかったりするので、papers/にまとめる.~~  
 -> 普通のMarkdownでもtexが上手く表示されないことがあるので tmp.mdではなくtmp.ipynbに変更する。
 
-* 特定の分野ある程度まとめたものをoverviews/にまとめる。
+* 特定の分野をある程度まとめたものをoverviews/におく。
 
 Start: Apr 14, 2023
