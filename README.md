@@ -16,5 +16,6 @@ https://www.slideshare.net/Ochyai/1-ftma15
 -> 普通のMarkdownでもtexが上手く表示されないことがあるので tmp.mdではなくtmp.ipynbに変更する。
 
 * 特定の分野をある程度まとめたものをoverviews/におく。
+* とりわけまとめておきたいcode等をcodes/におく。
 
 Start: Apr 14, 2023
